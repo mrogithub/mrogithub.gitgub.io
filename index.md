@@ -7,3 +7,7 @@ Guardians of the Galaxy ist ein US-amerikanischer Science-Fiction-Actionfilm aus
 * Chris Pratt
 * Zoe Saldana
 * Lee Pace
+
+## A Quote
+
+> In der Liste der weltweit erfolgreichsten Filme aller Zeiten belegt Guardians of the Galaxy derzeit Platz 100 (Stand: 29. März 2020)[9].
