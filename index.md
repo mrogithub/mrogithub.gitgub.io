@@ -13,4 +13,4 @@ Guardians of the Galaxy ist ein US-amerikanischer Science-Fiction-Actionfilm aus
 > In der Liste der weltweit erfolgreichsten Filme aller Zeiten belegt Guardians of the Galaxy derzeit Platz 100 (Stand: 29. März 2020)[9].
 
 
-(https://de.wikipedia.org/wiki/Datei:Guardians_of_the_Galaxy-Logo.png)
+<img src="https://de.wikipedia.org/wiki/Datei:Guardians_of_the_Galaxy-Logo.png">
